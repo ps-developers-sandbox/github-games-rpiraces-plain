@@ -6,4 +6,6 @@ You can play the game at: [https://githubschool.github.io/github-games/](https:/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
+Hello
+
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
